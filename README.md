@@ -14,7 +14,12 @@
 
 ### Java
 
+#### - Effective Java 3/E📚
+#### - 토비의 스프링📚
+
 ### Javascript
+
+#### - Learning Javascript🛒
 
 ## Data structure & Algorithms
 
