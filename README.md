@@ -20,7 +20,7 @@
 <summary>정리본</summary>
 <br>
 
-- 
+생성자  
 [아이템 01 - 생성자 대신 static 팩토리 메소드](https://github.com/ubitoffee/til-temoprary/blob/master/effective-java/item-001.md)  
 [아이템 02 - 생성자에 매개변수가 많다면 빌더를 고려해볼 것](https://github.com/ubitoffee/til-temoprary/blob/master/effective-java/item-002.md)
 </details>
