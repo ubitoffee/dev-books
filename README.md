@@ -19,7 +19,8 @@
 <details>
 <summary>정리본</summary>
 <br>
-[아이템 01](https://github.com/ubitoffee/til-temoprary/blob/master/effective-java/item-001.md)
+
+[아이템 01](https://github.com/ubitoffee/til-temoprary/blob/master/effective-java/item-001.md)  
 [아이템 02](https://github.com/ubitoffee/til-temoprary/blob/master/effective-java/item-002.md)
 </details>
 
